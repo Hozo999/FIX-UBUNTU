@@ -9,9 +9,9 @@
 
 	git stash
 	git pull origin main
-	git add HOZOO.sh
+	git add hozoo.sh
 
-#kondisi jika file di kali ada
+#kondisi jika file di Ubuntu ada
 #codingan
 while true; do
 passwd="Hozoo01"
