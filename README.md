@@ -1,5 +1,6 @@
 termux-setup-storage
 
+
 pkg install update
 
 pkg install upgrade
