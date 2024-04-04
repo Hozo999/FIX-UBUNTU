@@ -1,11 +1,10 @@
-# FIX-UBUNTU
-termux-setup-storage 
+termux-setup-storage
 
 pkg install update
 
 pkg install upgrade
 
-pkg install git 
+pkg install git
 
 pkg install bash
 
